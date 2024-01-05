@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/react-furniture/static/css/main.9cdca580.css",
+    "main.js": "/react-furniture/static/js/main.d46a82b7.js",
+    "static/js/787.d4aba7ab.chunk.js": "/react-furniture/static/js/787.d4aba7ab.chunk.js",
+    "static/media/img2.jpg": "/react-furniture/static/media/img2.f84394d06ba50a6459cf.jpg",
+    "static/media/spacejoy-RqO6kwm4tZY-unsplash.jpg": "/react-furniture/static/media/spacejoy-RqO6kwm4tZY-unsplash.17a4e0f700b2af7d4f27.jpg",
+    "static/media/toa-heftiba-FV3GConVSss-unsplash.jpg": "/react-furniture/static/media/toa-heftiba-FV3GConVSss-unsplash.e5f51ead68cd38a0960f.jpg",
+    "static/media/home3.jpg": "/react-furniture/static/media/home3.93aaf3879f2ab83bb096.jpg",
+    "static/media/pro2.jpg": "/react-furniture/static/media/pro2.93c701092f86097c3f70.jpg",
+    "static/media/pro1.jpg": "/react-furniture/static/media/pro1.e5e4b8debee91015c9bc.jpg",
+    "static/media/pro3.jpg": "/react-furniture/static/media/pro3.20cfc8ff4c6cf9282d5b.jpg",
+    "static/media/pro6.jpg": "/react-furniture/static/media/pro6.49a424c88094acb54534.jpg",
+    "static/media/pro5.jpg": "/react-furniture/static/media/pro5.5afe10a640d692084cc0.jpg",
+    "static/media/pro4.jpg": "/react-furniture/static/media/pro4.bd753b2b3133c9982040.jpg",
+    "static/media/home2.jpg": "/react-furniture/static/media/home2.cb8d909d2bb33b9dab54.jpg",
+    "static/media/banner-4.jpg": "/react-furniture/static/media/banner-4.65c4ae3a0dc3bb0e8f92.jpg",
+    "static/media/banner-5.jpg": "/react-furniture/static/media/banner-5.6856f7744e1f4807cbfd.jpg",
+    "static/media/hover2.webp": "/react-furniture/static/media/hover2.334cbb8425dee9c408bf.webp",
+    "static/media/sign-in.jpg": "/react-furniture/static/media/sign-in.3d19f01589d14a6e5360.jpg",
+    "static/media/hover1.webp": "/react-furniture/static/media/hover1.9023225652e0236300f5.webp",
+    "static/media/slick.svg": "/react-furniture/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/react-furniture/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/react-furniture/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/react-furniture/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/react-furniture/index.html",
+    "main.9cdca580.css.map": "/react-furniture/static/css/main.9cdca580.css.map",
+    "main.d46a82b7.js.map": "/react-furniture/static/js/main.d46a82b7.js.map",
+    "787.d4aba7ab.chunk.js.map": "/react-furniture/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9cdca580.css",
+    "static/js/main.d46a82b7.js"
+  ]
+}
