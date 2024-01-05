@@ -1,0 +1,30 @@
+.side-cart{
+    display: flex;
+    margin-bottom: 20px;
+    justify-content: space-around;
+}
+.side-img{
+    width: 40%;
+}
+.side-text{
+    font-size: 23px;
+    font-weight: 600;
+}
+.side-price{
+    color: #f4a51c;
+    font-weight: 500;
+}
+.view-cart{
+    position: fixed;
+    top:93%;
+    color: #fff;
+    background-color:#f4a51c;
+    width: 350px;
+    height: 45px;
+    font-size: 22px;
+}
+.view-cart:hover{
+    color: #000000;
+    background-color:#ffffff;
+    border: 1px solid black;
+}

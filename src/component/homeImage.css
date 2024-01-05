@@ -1,0 +1,61 @@
+.contain{
+    display: flex;
+    width: 80%;
+    height: 600px;
+    margin: 0 auto;
+    background-color: aqua;    
+}
+.full-image {
+    position: relative;
+    width: 70%;
+    height: 100%;
+    background-color: blue;
+}
+.full-image img{
+    width: 100%;
+    height: 100%;
+}
+.details{
+    width: 30%;
+    background-color: #f7f7f7;
+    margin: 0 auto;
+    
+}
+.frist-circle{
+    position: absolute;
+    top: 30%;
+    left: 22%;
+    cursor: pointer;
+}
+.card-frist{
+    position: absolute;
+    top: 8%;
+    left: 30%;
+    z-index: 11;
+}
+.card-frist-dis{
+    opacity: 0;
+    position: absolute;
+    top: 8%;
+    left: 30%;
+}
+.second-circle{
+    position: absolute;
+    top: 75%;
+    left: 43%;
+    cursor: pointer;
+    z-index: 10;
+}
+.card-second{
+    opacity: 1;
+    position: absolute;
+    top: 0%;
+    left: 50%;
+}
+.card-second-dis{
+    opacity: 0;
+    position: absolute;
+    top: 0%;
+    left: 50%;
+}
+

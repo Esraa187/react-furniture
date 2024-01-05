@@ -1,0 +1,40 @@
+footer{
+    background-color: #000000;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 100px;
+    margin-top: 50px;
+}
+footer .footer_contact div{
+    margin-top: 40px;
+}
+footer .footer_contact i{
+    padding: 7px;
+    font-size: 20px;
+    border: 2px solid #b4b4b5;
+    border-radius: 60%;
+    color: #9c9c9c;
+    cursor: pointer;
+}
+footer p{
+    color: #b4b4b5;
+    padding: 10px;
+    cursor: pointer;
+}
+footer .footer_head{
+    letter-spacing: 4px;
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 500;
+}
+.footer-icons{
+    cursor: pointer;
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+    color: #ffffff;
+    border: 2px solid #fff;
+    padding: 3px;
+    border-radius: 50%;
+}

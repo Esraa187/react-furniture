@@ -1,0 +1,26 @@
+.increamnt,
+.decreamnt{
+    height: 35.6px;
+    font-size: 20px;
+    color: #606060;
+    padding: 0 10px;
+    border: 2px solid #88878760;
+}
+.form-inp{
+    width: 40px;
+    height: 36px;
+    font-size: 20px;
+    text-align: center;
+    border: 2px solid #88878760;
+    border-left: none;
+    border-right: none;
+    color: #606060;
+    background-color: transparent;
+}
+.contain-input{
+    margin-top: 13px;
+    margin-right: 20px;
+}
+.increamnt:hover,.decreamnt:hover,.form-inp:hover{
+    color: #f4a51c;
+}

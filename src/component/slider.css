@@ -1,0 +1,123 @@
+.all-carousel{
+    margin-inline: 2rem;
+}
+.slider_img {
+    height: 90vh;
+    width: 100%;
+}
+.carousel-indicators [data-bs-target] {
+    border-radius: 100%;
+    width: 10px;
+    height: 10px;
+}
+.animated-text-container{
+    top: 250px;
+}
+.p-2,.p-1,.p-3{
+    font-size: 20px;
+    font-weight: 500;
+}
+.p-1{
+    color: #1B4242;
+}
+h2{
+    letter-spacing: 3px;
+}
+.button-shop-1,.button-view-1{
+    text-decoration: none;
+    color: aliceblue;
+    border-radius: 25px;
+    padding: 15px;
+    margin-right: 20px;
+    margin-top: 50px;
+    font-size: 20px;
+}
+.button-view-1{
+    background-color: #1B4242;
+    border: 1px solid #1B4242;
+}
+.button-view-1:hover{
+    background-color: #1e4f4f
+}
+.button-shop-1{
+    background-color: transparent;
+    border: 3px solid gainsboro;
+    color: #1B4242;
+    font-weight: 500;
+}
+.button-shop-1:hover{
+    border: 3px solid #fff;
+    color: #fff;
+}
+/* ///////////// */
+.button-shop-2,.button-view-2{
+    text-decoration: none;
+    color: aliceblue;
+    border-radius: 25px;
+    padding: 15px;
+    margin-right: 20px;
+    margin-top: 50px;
+    font-size: 20px;
+}
+.button-view-2{
+    background-color: #d2ad09;
+    border: 1px solid #d2ad09;
+}
+.button-view-2:hover{
+    background-color: #e9c009
+}
+.button-shop-2{
+    background-color: transparent;
+    border: 3px solid gainsboro;
+    color: #e3bb0a;
+    font-weight: 500;
+}
+.button-shop-2:hover{
+    border: 3px solid #fff;
+    color: #fff;
+}
+/* //////////////// */
+.p-3{
+    color: #a5977a;
+}
+.button-shop-3,.button-view-3{
+    text-decoration: none;
+    color: aliceblue;
+    border-radius: 25px;
+    padding: 15px;
+    margin-right: 20px;
+    margin-top: 50px;
+    font-size: 20px;
+}
+.button-view-3{
+    background-color: #BBAB8C;
+    border: 1px solid #BBAB8C;
+}
+.button-view-3:hover{
+    background-color: #ab9e83
+}
+.button-shop-3{
+    background-color: transparent;
+    border: 3px solid gainsboro;
+    color: rgb(160, 148, 122);
+    font-weight: 500;
+}
+.button-shop-3:hover{
+    border: 3px solid #fff;
+    color: #fff;
+}
+.mar{
+    height: 30px;
+}
+.animated-text-container.animate {
+    animation: moveUp 1s linear;
+}
+@keyframes moveUp {
+    from {
+        transform: translateY(100%);
+    }
+
+    to {
+        transform: translateY(0);
+    }
+}

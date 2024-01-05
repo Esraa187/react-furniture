@@ -1,0 +1,59 @@
+.me-auto{
+    margin-left: 250px;
+}
+.navbar-text,.navbar-logo{
+    color: rgb(0, 0, 0);
+}
+.navbar-text{
+    font-size: 15px;
+    font-weight: 600;
+    margin-right: 20px;
+}
+.navbar-text:hover{
+    color: #FCA311;
+}
+.navbar-toggler-icon{
+    color: #fff;
+    background-color: #fff;
+    border-color: #fff;
+}
+.heart,.cart{
+    color: #fff;
+    width: 25px;
+    height: 25px;
+    cursor: pointer;
+}
+.collab{
+    margin-right: 100px;
+}
+.cart{
+    margin-left: 40px;
+    position: relative;
+}
+.count-item{
+    position: absolute;
+    top:4px ;
+    left: 86%;
+}
+.search-icon{
+    width: 20px;
+    height: 20px;
+    color: #000000;
+    background-color: #ffffff;
+    margin-right: 20px;
+    cursor: pointer;
+}
+.user{
+    width: 20px;
+    height: 20px;
+    color: #000000;
+    background-color: #ffffff;
+    margin-right: 20px;
+    cursor: pointer;
+}
+.heart,.cart{
+    color: #000000;
+    width: 21px;
+    height: 21px;
+    cursor: pointer;
+}

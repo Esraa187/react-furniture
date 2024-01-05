@@ -1,0 +1,22 @@
+.card{
+    width: 18rem;
+    background-color: #f7f7f7;
+    padding: 10px 0;
+}
+.card img{
+    height: 240px;
+    width: 290px;
+}
+.all-text{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.description{
+    color: rgb(124, 124, 124);
+    padding: 7px ;
+}
+.price{
+    color: #f4a51c;
+    font-weight: 600;
+    font-size: 14px;
+}

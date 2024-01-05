@@ -1,0 +1,57 @@
+.carousel-itemx {
+    display: flex;
+    flex-direction: column;
+    height: 390px;
+    position: relative;
+}
+.carousel-item-textx,
+.carousel-item-decsriptionx, 
+.carousel-item-pricex{
+    font-family:Arial, Helvetica, sans-serif;
+    white-space: normal;
+    text-align: center;
+    padding: 3px 0;
+}
+.carousel-item-textx{
+    font-size: 14px;
+    color: rgb(46, 46, 46);
+    letter-spacing: 1px;
+}
+.carousel-item-decsriptionx{
+    font-size: 10px;
+    color: rgb(144, 144, 145);
+}
+.carousel-item-pricex{
+    color: #f4a51c;
+    font-weight: 600;
+    font-size: 14px;
+}
+.carousel-imgx {
+    width: 300px;
+}
+.xiconsx{
+    opacity: 0;
+    position: absolute;
+    display: flex;
+    align-items: center;
+    background-color: #ffffff;
+    margin-inline:3rem ;
+    box-shadow: 0px 2px 5px rgb(69, 68, 68);
+    top: 57%;
+    left: 19%;
+    z-index: 5;
+}
+.carousel-itemx:hover .xiconsx{
+    opacity: 1;
+    transition: all .3s ease-in-out;
+}
+.sub_iconx{
+    width: 23px;
+    height: 30px;
+    cursor: pointer;
+    color: rgb(101, 101, 101);
+    margin:0 5px;
+}
+.sub_iconx:hover{
+    color: rgb(109, 108, 108);
+}

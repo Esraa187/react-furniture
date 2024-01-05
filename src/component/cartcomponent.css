@@ -1,0 +1,23 @@
+.all-component{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 50px;
+}
+.products{
+    width: 30%;
+}
+.cart-comp-img{
+    width: 50%;
+}
+.all-price{
+    margin-left: -380px;
+}
+.merge{
+    display: flex;
+    align-items: center;
+}
+.titels-cart{
+    display: flex;
+    justify-content: space-around;
+}
